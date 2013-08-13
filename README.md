@@ -1,0 +1,1 @@
+Source code of TradingView Basic Indicators, www.tradingview.com
